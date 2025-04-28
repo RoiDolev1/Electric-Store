@@ -1,0 +1,13 @@
+[2025-02-28 19:14:22] Created default admin [username=admin]
+[2025-02-28 19:14:28] User [admin] logged in
+[2025-02-28 19:14:56] Added customer [oren]
+[2025-02-28 19:15:13] Added item [P/N=1]
+[2025-02-28 19:15:43] Updated item [P/N=1]
+[2025-02-28 19:15:54] Purchase recorded: Customer=oren, P/N=1, Qty=1, Price=10.00
+[2025-02-28 19:16:24] Added new employee [username=david, level=2]
+[2025-02-28 19:16:37] User [david] logged in
+[2025-02-28 19:16:51] Return accepted: Customer=oren, P/N=1
+[2025-02-28 19:17:59] User [david] logged in
+[2025-02-28 19:18:16] Purchase recorded: Customer=oren, P/N=1, Qty=1, Price=10.00
+[2025-02-28 19:19:38] User [admin] logged in
+[2025-02-28 19:19:55] Return accepted: Customer=oren, P/N=1
